@@ -26,5 +26,10 @@ namespace Kancelaria.Controllers
 
             return View();
         }
+
+        public ActionResult Ask()
+        {
+            return View();
+        }
     }
 }
